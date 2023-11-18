@@ -19,17 +19,30 @@ La France possède 13 régions administratives, avec chacune ses spécicités t
 Langage : R
 
 [ SDD 3 ]
+La problématique de mon projet est de déterminer si un lien existe entre la variation du dioxyde de carbone (CO2) dans l'atmosphère et la fréquence des catastrophes naturelles. Pour aborder cette question, j'utiliserai des données liées à ces deux phénomènes. D'une part, je collecterai des données sur les niveaux de CO2 dans l'atmosphère au fil du temps, car cela pourrait servir d'indicateur du changement climatique. D'autre part, je rassemblerai des données sur la fréquence des catastrophes naturelles, telles que les ouragans, les inondations, les séismes, etc. Mon objectif sera d'analyser ces données pour déterminer s'il existe une corrélation entre l'augmentation du CO2 atmosphérique et la fréquence des catastrophes naturelles. Cette question est cruciale pour comprendre l'impact du changement climatique sur la survenue de catastrophes et pourrait avoir des implications majeures en matière de politiques environnementales et d'adaptation aux changements climatiques.
+
+Langage : Python, Jupyter 
 
 [ Tableau ]
+Ce fichier rassemble plusieurs manipulations effectuées au moyen du logiciel Tableau. Au travers de différentes opérations, nous avons exploité les fonctionnalités de Tableau pour analyser et visualiser des données de manière significative. Les diverses manipulations englobent la préparation des données, la création de tableaux de bord interactifs, et l'application de filtres pour extraire des insights pertinents. 
+Ce fichier témoigne de ma compétence à manier cet outil, démontrant mon aptitude à tirer parti de ses fonctionnalités pour interpréter et présenter des informations de manière convaincante.
 
+Logiciel : Tableau
 
 [ EcoTourisme ]
+Notre initiative consiste à développer un site web dédié au tourisme, que nous avons nommé ”Eco-Tourisme”. Ce projet vise à promouvoir le tourisme en harmonie avec les aspects économiques et écologiques.
 
-Technologies Utilisées
+Pour atteindre cet objectif, nous envisageons de créer des graphiques en utilisant les données statistiques que nous recueillerons à partir de bases de données pertinentes. Ces graphiques seront conçus pour mettre en évidence l'attractivité de chaque pays, en prenant en considération principalement les facteurs économiques et écologiques.
 
-Langages de Programmation: [Liste des langages utilisés]
-Frameworks et Bibliothèques: [Liste des frameworks et bibliothèques]
-Outils de Développement: [Liste des outils utilisés]
+Notre site web offrira ainsi une perspective unique aux voyageurs en mettant en avant des destinations qui allient plaisir touristique et responsabilité environnementale. Nous croyons fermement que notre projet contribuera à encourager un tourisme plus durable et équilibré pour le bien de tous.
+
+Langage : HTML, PHP, JS 
+
+[Technologies Utilisées]
+
+Langages de Programmation: [HTML, PHP, JS, Python, MySql]
+Frameworks et Bibliothèques: [jFrame, jQuery, Pandas, Seaborn..]
+Outils de Développement: [R, Tableau, Orange3]
 
 Contact
 Pour toute question ou collaboration, n'hésitez pas à me contacter par email à [ayamohamedatni31@gmail.com].
