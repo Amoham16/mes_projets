@@ -1,0 +1,78 @@
+body {
+    background-color: #f0f5f9; 
+    margin: 0;
+}
+
+h1 {
+    text-align: center; 
+    font-size: 40px;
+    font-weight: bold; 
+    color: #26413C; 
+    margin-top: 20px; 
+}
+
+#style {
+    margin-left: 47%;
+    background-color: #3E505B;
+    padding: 10px 15px;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+    font-size: 10px;
+    font-weight: bold; 
+    color: white;
+}
+
+#morpion {
+    margin-left: 37%;
+    margin-right: 37%;
+    display: grid;
+    grid-template-columns: repeat(3, 100px);
+    grid-gap: 5px;
+    margin-top: 30px;
+    background-color: white; 
+    padding: 30px; 
+    border-radius: 10px; 
+}
+
+.case {
+    width: 100px;
+    height: 100px;
+    cursor: pointer;
+    border: black 2px solid;
+    background-image: url('vide.png'); 
+    background-size: cover;
+}
+
+.player {
+    background-image: url('croix.png');
+}
+
+.ia {
+    background-image: url('cercle.png');
+}
+
+#boutons button {
+    margin: 0 10px;
+    display: inline-block; /* Afficher les boutons côte à côte */
+    color: white;
+    padding: 10px 15px;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    font-weight: bold; 
+}
+
+#boutons {
+    text-align: center;
+    margin-top: 20px;
+}
+
+#replay {
+    background-color: #26413C;
+}
+
+#iaFirst{
+    background-color: #3E505B;
+}
