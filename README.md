@@ -7,9 +7,9 @@ Bienvenue sur mon espace GitHub dédié à mes projets réalisés lors de ma Lic
 ### [ EcoTourisme ]
 - Notre initiative consiste à développer un site web dédié au tourisme, que nous avons nommé ”Eco-Tourisme”. Ce projet vise à promouvoir le tourisme en harmonie avec les aspects économiques et écologiques.
 
-Pour atteindre cet objectif, nous envisageons de créer des graphiques en utilisant les données statistiques que nous recueillerons à partir de bases de données pertinentes. Ces graphiques seront conçus pour mettre en évidence l'attractivité de chaque pays, en prenant en considération principalement les facteurs économiques et écologiques.
+- Pour atteindre cet objectif, nous envisageons de créer des graphiques en utilisant les données statistiques que nous recueillerons à partir de bases de données pertinentes. Ces graphiques seront conçus pour mettre en évidence l'attractivité de chaque pays, en prenant en considération principalement les facteurs économiques et écologiques.
 
-Notre site web offrira ainsi une perspective unique aux voyageurs en mettant en avant des destinations qui allient plaisir touristique et responsabilité environnementale. Nous croyons fermement que notre projet contribuera à encourager un tourisme plus durable et équilibré pour le bien de tous.
+- Notre site web offrira ainsi une perspective unique aux voyageurs en mettant en avant des destinations qui allient plaisir touristique et responsabilité environnementale. Nous croyons fermement que notre projet contribuera à encourager un tourisme plus durable et équilibré pour le bien de tous.
 
 Langage : HTML, PHP, JS 
 
@@ -43,13 +43,13 @@ Logiciel : Tableau
 - **Morpion_js :** Création d'un jeu de morpion avec une IA imbattable (JavaScript/JQuery).
   - Développement d'un jeu de morpion interactif avec une intelligence artificielle capable de jouer de manière invincible, implémenté en JavaScript et JQuery.
 
-##[Technologies Utilisées]
+## [Technologies Utilisées]
 
 Langages de Programmation: [HTML, PHP, JS, Python, MySql]
 Frameworks et Bibliothèques: [jFrame, jQuery, Pandas, Seaborn..]
 Outils de Développement: [R, Tableau, Orange3]
 
-##[Contact]
+## [Contact]
 Pour toute question ou collaboration, n'hésitez pas à me contacter par email à [ayamohamedatni31@gmail.com].
 
 Merci de visiter mon espace GitHub et de découvrir mes réalisations !
