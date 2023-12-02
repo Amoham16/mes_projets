@@ -1,4 +1,4 @@
-# Projets L2-L3 MIASHS 🚀
+# Projets L2-L3 MIASHS ☁️
 
 Bienvenue sur mon espace GitHub dédié à mes projets réalisés lors de ma Licence Mathématiques et Informatiques Appliquées aux Sciences Humaines et Sociales. Ces projets reflètent mon parcours académique et mes compétences acquises au cours de cette période.
 
