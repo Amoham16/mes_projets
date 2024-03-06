@@ -37,11 +37,14 @@ Ce fichier témoigne de ma compétence à manier cet outil, démontrant mon apti
 Logiciel : Tableau
 
 
-### [ Java/JS ]
+### [ Java ]
 - **POO :** Rapport sur la modélisation d'un trafic routier en Java.
   - Projet de modélisation du trafic routier mettant en œuvre des concepts de Programmation Orientée Objet en Java.
+  
+### [ Morpion_js ]
 - **Morpion_js :** Création d'un jeu de morpion avec une IA imbattable (JavaScript/JQuery).
   - Développement d'un jeu de morpion interactif avec une intelligence artificielle capable de jouer de manière invincible, implémenté en JavaScript et JQuery.
+
 
 ## [Technologies Utilisées]
 
